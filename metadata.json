@@ -1,0 +1,9 @@
+{
+  "name": "Fashion Fusion",
+  "description": "Fashion Fusion is an AI-powered fashion recommendation and styling platform that fuses technology, personal style, mood, and trend analysis to offer hyper-personalized outfit suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": "",
+  "majorCapabilities": []
+}
